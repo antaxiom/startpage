@@ -1,5 +1,5 @@
 # startpage
 my first minimal startpage
 
-preview
+__preview:__
 ![alt text](https://i.imgur.com/wvyNfeD.png)
